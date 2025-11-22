@@ -8,7 +8,7 @@ Currently I'm an university student with hopes to get my lazy ass to PhD one day
 
 ## Webring
 
-I'm part of [otomir23's webring](https://webring.otomir23.me). That means I have to share my fellow neighbours' web pages. You can find them [there](/webring_neighbours.html).
+I'm part of [otomir23's webring](https://webring.otomir23.me). That means I have to share my fellow neighbours' web pages.
 
 ## Contact
 
