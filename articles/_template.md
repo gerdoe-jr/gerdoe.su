@@ -2,7 +2,7 @@
 
 ## Attention Note
 
-Any other articles written by my own hands can be found at [index](/_index.html).
+Any other articles written by my own hands can be found at [index](/articles/_index.html).
 
 ---
 

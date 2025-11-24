@@ -6,4 +6,5 @@ Welcome to another corner of my circle cabinet! There you can find all my unfini
 
 ## Index
 
-No demon of retarded ideas have visited me so far.
+- [Zaddof-Chu Sequence](/notes/zadoff_chu.html)
+- [LTE PRACH Preamble Generation Description](/notes/prach_preamble_generator.html)
