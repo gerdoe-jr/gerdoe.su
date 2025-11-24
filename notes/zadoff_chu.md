@@ -6,7 +6,7 @@ Any other notes written by my own hands can be found at [index](/notes/_index.ht
 
 ---
 
-## Zaddof-Chu Sequence
+## Zadoff-Chu Sequence
 
 ### Date: 24.11.2025
 
